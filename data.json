@@ -1,0 +1,72 @@
+{
+    "01": {
+        "name": "Baby",
+        "director": "Justin Bieber",
+        "link": "https://www.youtube.com/watch?v=kffacxfA7G4",
+        "rating": 4,
+        "play_count": 0
+    },
+    "02": {
+        "name": "Not Like Us",
+        "director": "Kendrick Lamar",
+        "link": "https://www.youtube.com/watch?v=H58vbez_m4E",
+        "rating": 5,
+        "play_count": 0
+    },
+    "03": {
+        "name": "One More Night",
+        "director": "Maroon 5",
+        "link": "https://www.youtube.com/watch?v=fwK7ggA3-bU",
+        "rating": 2,
+        "play_count": 0
+    },
+    "04": {
+        "name": "You Are Not Alone",
+        "director": "Micheal Jackson",
+        "link": "https://www.youtube.com/watch?v=pAyKJAtDNCw",
+        "rating": 1,
+        "play_count": 0
+    },
+    "05": {
+        "name": "Counting Stars",
+        "director": "OneRepublic",
+        "link": "https://www.youtube.com/watch?v=hT_nvWreIhg",
+        "rating": 3,
+        "play_count": 0
+    },
+    "06": {
+        "name": "Take Me Home,Country Road",
+        "director": "John Denver",
+        "link": "https://www.youtube.com/watch?v=1vrEljMfXYo",
+        "rating": 3,
+        "play_count": 0
+    },
+    "07": {
+        "name": "We Don't Talk Anymore",
+        "director": "Charlie Puth",
+        "link": "https://www.youtube.com/watch?v=3AtDnEC4zak",
+        "rating": 3,
+        "play_count": 0
+    },
+    "08": {
+        "name": "I Do",
+        "director": "911",
+        "link": "https://www.youtube.com/watch?v=pBTp2RWxq-s",
+        "rating": 3,
+        "play_count": 0
+    },
+    "09": {
+        "name": "7 Years",
+        "director": "Lukas Graham",
+        "link": "https://www.youtube.com/watch?v=LHCob76kigA",
+        "rating": 3,
+        "play_count": 0
+    },
+    "10": {
+        "name": "I Love You 3000",
+        "director": "Stephanie Poetri",
+        "link": "https://www.youtube.com/watch?v=cPkE0IbDVs4",
+        "rating": 3,
+        "play_count": 0
+    }
+}
